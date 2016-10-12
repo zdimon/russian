@@ -8,15 +8,15 @@
 
 Добрый вечер. - evening
 
-Здра*в*ствуйте. - Hello. (*в* - does not sound)
+Здра**в**ствуйте. - Hello. (**в** - does not sound)
 
 Здравия желаю. - Salute. 
 
-*здравие*, *здоровье* - helth
+**здравие**, **здоровье** - helth
 
 Как ваше здоровье? - How do you feel? 
 
-*желаю* - wish
+**желаю** - wish
 
 Доброе утро Вам в Украине. - Good morning to you in Ukraine.
 
@@ -33,7 +33,7 @@
 
 Привет - Hello (inf)
 
-Здоров(а) - Hi (originated from helth *здоровье*) (inf)
+Здоров(а) - Hi (originated from helth **здоровье**) (inf)
 
 Здрасьте - short form of Здравствуйте (inf)
 
