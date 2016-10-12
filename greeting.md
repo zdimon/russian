@@ -55,6 +55,12 @@
 
 У меня всё отлично (excellent, fine).
 
+Нормально. Хорошо^. Отлично^^. Супер^^^.- I am ok. (inf)
+
+Потихоньку - (slowly) (inf) As good as possible.
+
+Так себе - ??? Not as good as I would like :-( 
+
 Большое Вам спасибо. Thank you very much.
 
 
