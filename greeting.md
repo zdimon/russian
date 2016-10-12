@@ -68,7 +68,7 @@
 
 Будтье здоровы - Be healthy
 
-
+Доброго утра/дня/вечера. - Good morning/day/evening.
 
 Пока - By (inf)
 
