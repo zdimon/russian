@@ -1,3 +1,4 @@
 #Russian for beginners.
 
-[Greeting](/greeting)
+[Greeting](greeting.md)
+
