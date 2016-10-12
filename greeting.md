@@ -14,15 +14,19 @@
 
 **здравие**, **здоровье** - helth
 
+**желаю** - wish
+
 Как ваше здоровье? - How do you feel? 
 
-**желаю** - wish
+
 
 Доброе утро Вам в Украине. - Good morning to you in Ukraine.
 
 ###Informal (inf)
 
 Доброе утро Тебе в Украине.
+
+**добрый** (adj) - kind, nice, soft
 
 Добрый вечер из Соединённых Штатов Америки. - Good evening from the United States of America.
 
@@ -37,8 +41,14 @@
 
 Здрасьте - short form of Здравствуйте (inf)
 
-Как дела? - How are you? (inf)
+К`ак Вы? - How are you? (inf)
 
+К`ак ты? (inf)
+
+Как дела? - How are you doing?
+
+
+**дела** - affairs, work, doings
 
 У меня всё хорошо. - I am good.
 
