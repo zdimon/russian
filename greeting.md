@@ -4,9 +4,9 @@
 
 Доброе утро.   - Good morning.
 
-Добрый день. - day
+Добрый день (day).
 
-Добрый вечер. - evening
+Добрый вечер (evening). 
 
 Здра**в**ствуйте. - Hello. (**в** - does not sound)
 
