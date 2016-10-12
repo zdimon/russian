@@ -42,7 +42,7 @@
 Здоров(а) - Hi (originated from helth **здоровье**) (inf)
 
 
-К`ак Вы? - How are you? (inf)
+К`ак Вы? - How are you?
 
 К`ак ты? (inf)
 
