@@ -37,9 +37,10 @@
 
 Привет - Hello (inf)
 
+Здрасьте - short form of Здравствуйте
+
 Здоров(а) - Hi (originated from helth **здоровье**) (inf)
 
-Здрасьте - short form of Здравствуйте (inf)
 
 К`ак Вы? - How are you? (inf)
 
