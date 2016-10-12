@@ -20,27 +20,25 @@
 
 Доброе утро Вам в Украине. - Good morning to you in Ukraine.
 
-###Informal
+###Informal (inf)
 
 Доброе утро Тебе в Украине.
 
 Добрый вечер из Соединённых Штатов Америки. - Good evening from the United States of America.
 
 
-###Informal
-
-Добрый вечер из Штатов.
+Добрый вечер из Штатов. (inf)
 
 
-###Informal
 
-Привет - Hello
+Привет - Hello (inf)
 
-Здоров(а) - Hi (originated from helth *здоровье*)
+Здоров(а) - Hi (originated from helth *здоровье*) (inf)
 
-Здрасьте - short form of Здравствуйте
+Здрасьте - short form of Здравствуйте (inf)
 
-Как дела? - How are you?
+Как дела? - How are you? (inf)
+
 
 У меня всё хорошо. - I am good.
 
@@ -53,13 +51,13 @@
 
 Будтье здоровы - Be healthy
 
-###Informal
 
-Пока - By
 
-Удачи - Good luck
+Пока - By (inf)
 
-Будь здоров - Be healthy
+Удачи - Good luck (inf)
+
+Будь здоров - Be healthy (inf)
 
 
 
@@ -70,6 +68,9 @@
 
 Я начинающий в русском. - I am a beginner with Russian.
 
-###Informal
+Я новичЁк (Ё sounds like 'o') - I am a freshman. (inf)
 
-Я новичЁк (Ё sounds like 'o') - I am a freshman.
+
+
+
+
